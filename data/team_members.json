@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Scott Moore",
+    "role": "Project Manager",
+    "phone": "+1-502-555-0100",
+    "email": "scott@constructionco.com",
+    "projects_assigned": ["proj-001", "proj-002", "proj-003", "proj-004", "proj-005"]
+  },
+  {
+    "name": "Mike Thompson", 
+    "role": "Electrical Supervisor",
+    "phone": "+1-502-555-0101",
+    "email": "mike@thompsonelectric.com",
+    "projects_assigned": ["proj-001", "proj-002"]
+  },
+  {
+    "name": "Sarah Chen",
+    "role": "Site Coordinator", 
+    "phone": "+1-502-555-0102",
+    "email": "sarah.chen@constructionco.com",
+    "projects_assigned": ["proj-002", "proj-004"]
+  },
+  {
+    "name": "James Wilson",
+    "role": "Framing Lead",
+    "phone": "+1-502-555-0103", 
+    "email": "james@wilsonframing.com",
+    "projects_assigned": ["proj-003"]
+  },
+  {
+    "name": "Maria Rodriguez",
+    "role": "Compliance Specialist",
+    "phone": "+1-502-555-0104",
+    "email": "maria.rodriguez@constructionco.com", 
+    "projects_assigned": ["proj-004", "proj-005"]
+  },
+  {
+    "name": "David Kim",
+    "role": "Operations Manager",
+    "phone": "+1-502-555-0105",
+    "email": "david.kim@constructionco.com",
+    "projects_assigned": ["proj-005", "proj-003"]
+  }
+]

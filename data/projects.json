@@ -1,0 +1,179 @@
+[
+  {
+    "id": "proj-001",
+    "name": "1611 Payne Street Renovation",
+    "address": "1611 Payne Street, Louisville, KY 40204",
+    "status": "In Progress - Permit Phase",
+    "permit_status": "Permit approved, awaiting electrical inspection",
+    "timeline": {
+      "start": "2024-03-15",
+      "end": "2024-06-30",
+      "current_phase": "Electrical rough-in"
+    },
+    "responsible_party": "Mike Thompson",
+    "next_steps": "Schedule electrical inspection with city by Friday 4/10",
+    "contractors": [
+      {
+        "name": "Thompson Electric",
+        "trade": "Electrical",
+        "contact": "mike@thompsonelectric.com",
+        "status": "Active"
+      },
+      {
+        "name": "Louisville Plumbing Co",
+        "trade": "Plumbing", 
+        "contact": "info@lvilleplumbing.com",
+        "status": "Scheduled"
+      }
+    ],
+    "compliance_items": [
+      {
+        "requirement": "Electrical inspection",
+        "status": "Pending",
+        "due_date": "2024-04-10"
+      },
+      {
+        "requirement": "Fire safety review",
+        "status": "Completed",
+        "completed_date": "2024-03-28"
+      }
+    ]
+  },
+  {
+    "id": "proj-002", 
+    "name": "Downtown Office Building A",
+    "address": "150 W Main Street, Louisville, KY 40202",
+    "status": "Planning Phase",
+    "permit_status": "Application submitted, under review",
+    "timeline": {
+      "start": "2024-05-01",
+      "end": "2024-12-15",
+      "current_phase": "Design review"
+    },
+    "responsible_party": "Sarah Chen",
+    "next_steps": "Awaiting city feedback on structural plans",
+    "contractors": [
+      {
+        "name": "Metro Construction",
+        "trade": "General Contractor",
+        "contact": "contact@metroconstruction.com",
+        "status": "Contracted"
+      }
+    ],
+    "compliance_items": [
+      {
+        "requirement": "Zoning approval",
+        "status": "Approved",
+        "completed_date": "2024-03-20"
+      },
+      {
+        "requirement": "Environmental impact study",
+        "status": "In Progress",
+        "due_date": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "id": "proj-003",
+    "name": "Residential Complex Phase 2", 
+    "address": "2200 Bardstown Road, Louisville, KY 40205",
+    "status": "Construction Active",
+    "permit_status": "All permits approved",
+    "timeline": {
+      "start": "2024-02-01",
+      "end": "2024-08-30",
+      "current_phase": "Foundation and framing"
+    },
+    "responsible_party": "James Wilson",
+    "next_steps": "Complete foundation inspection by 4/12, begin framing",
+    "contractors": [
+      {
+        "name": "Wilson Framing LLC",
+        "trade": "Framing",
+        "contact": "james@wilsonframing.com", 
+        "status": "Active"
+      },
+      {
+        "name": "Apex Electrical Services",
+        "trade": "Electrical",
+        "contact": "service@apexelectrical.com",
+        "status": "Scheduled - Week of 4/15"
+      }
+    ],
+    "compliance_items": [
+      {
+        "requirement": "Foundation inspection",
+        "status": "Scheduled",
+        "due_date": "2024-04-12"
+      }
+    ]
+  },
+  {
+    "id": "proj-004",
+    "name": "Historic Church Restoration",
+    "address": "800 S 4th Street, Louisville, KY 40203", 
+    "status": "On Hold",
+    "permit_status": "Historic preservation review required",
+    "timeline": {
+      "start": "2024-06-01",
+      "end": "2025-03-15",
+      "current_phase": "Approval process"
+    },
+    "responsible_party": "Maria Rodriguez",
+    "next_steps": "Submit historic preservation application by 4/20",
+    "contractors": [
+      {
+        "name": "Heritage Restoration Co",
+        "trade": "Historic Restoration",
+        "contact": "info@heritagerestoration.com",
+        "status": "Pre-contracted"
+      }
+    ],
+    "compliance_items": [
+      {
+        "requirement": "Historic preservation approval", 
+        "status": "Pending application",
+        "due_date": "2024-04-20"
+      },
+      {
+        "requirement": "Structural assessment",
+        "status": "Completed",
+        "completed_date": "2024-03-10"
+      }
+    ]
+  },
+  {
+    "id": "proj-005",
+    "name": "Warehouse Expansion Project",
+    "address": "3500 Preston Highway, Louisville, KY 40213",
+    "status": "Near Completion",
+    "permit_status": "Final inspections in progress", 
+    "timeline": {
+      "start": "2023-11-01",
+      "end": "2024-04-15",
+      "current_phase": "Final inspections"
+    },
+    "responsible_party": "David Kim",
+    "next_steps": "Complete HVAC final inspection, obtain occupancy permit",
+    "contractors": [
+      {
+        "name": "Industrial HVAC Solutions",
+        "trade": "HVAC",
+        "contact": "service@industrialhvac.com",
+        "status": "Final inspection pending"
+      }
+    ],
+    "compliance_items": [
+      {
+        "requirement": "HVAC final inspection",
+        "status": "Scheduled",
+        "due_date": "2024-04-08"
+      },
+      {
+        "requirement": "Occupancy permit",
+        "status": "Pending HVAC approval",
+        "due_date": "2024-04-15"
+      }
+    ]
+  }
+]

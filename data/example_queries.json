@@ -1,0 +1,50 @@
+[
+  {
+    "query": "Status on 1611 Payne Street permit?",
+    "category": "permit_status"
+  },
+  {
+    "query": "Next inspection for Building A?",
+    "category": "inspections"
+  },
+  {
+    "query": "Who's the electrical contractor for Phase 2?",
+    "category": "contractors"
+  },
+  {
+    "query": "What's pending on the warehouse project?",
+    "category": "status"
+  },
+  {
+    "query": "When is the church restoration starting?",
+    "category": "timeline"
+  },
+  {
+    "query": "Any issues with Bardstown Road project?",
+    "category": "status"
+  },
+  {
+    "query": "Who's responsible for downtown office permits?", 
+    "category": "responsibility"
+  },
+  {
+    "query": "Status of foundation work on Phase 2?",
+    "category": "construction_phase"
+  },
+  {
+    "query": "Any overdue inspections this week?",
+    "category": "inspections"
+  },
+  {
+    "query": "What contractors are working on 4th Street?",
+    "category": "contractors"
+  },
+  {
+    "query": "Timeline for warehouse completion?",
+    "category": "timeline"
+  },
+  {
+    "query": "Any compliance issues I need to know about?",
+    "category": "compliance"
+  }
+]
